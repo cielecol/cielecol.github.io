@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cielecol.github.io/sitemap
+Sitemap: https://cielecol.github.io/app/sitemap
+Sitemap: https://cielecol.github.io/assets/sitemap
+Sitemap: https://cielecol.github.io/css/sitemap
+Sitemap: https://cielecol.github.io/includes/sitemap
+Sitemap: https://cielecol.github.io/item/sitemap
+Sitemap: https://cielecol.github.io/src/sitemap
